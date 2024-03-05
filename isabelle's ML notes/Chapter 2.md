@@ -1,0 +1,1 @@
+1. Data Augmentation - When you slightly change the input data and synthetic generation of data from existing one

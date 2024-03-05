@@ -1,0 +1,1 @@
+1. To increase the accuracy of the model try to try both **fit_one_cycle()** and **fine_tune()** 

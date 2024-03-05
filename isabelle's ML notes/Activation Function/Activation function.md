@@ -1,0 +1,1 @@
+Activation Function decides whether a neuron should be activated or not 
